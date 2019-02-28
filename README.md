@@ -1,4 +1,4 @@
-# Parallel-Burte-Force-Algorithm (GPGPU using CUDA)
+# Parallel-Brute-Force-Algorithm (GPGPU using CUDA)
 
 ## Environtment
 <p>Platform : Window 10</p>
