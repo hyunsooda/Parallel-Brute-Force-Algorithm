@@ -292,7 +292,7 @@ void crackPassword(string pass, int operation, int numOfChars) {
 				cnt = 0;
 				new_cnt = 0;
 				CUDA_CHECK(cudaFree(d_dest));
-				free(result);
+// 				free(result);
 				break;
 		}
 
