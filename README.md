@@ -16,7 +16,7 @@ This program find password using GPU power not CPU intensive.
 <p>Platform : Window 10</p>
 <p>Compiler : NVCC + MSVC</p>
 <p>CPU : intel i7</p>
-<p>GPU : GTX1080</p>
+<p>GPU : GTX1050</p>
 
 For details(Korean) : https://eat2go.tistory.com/76?category=772666
 
