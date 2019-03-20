@@ -24,10 +24,11 @@ This program find password using GPU power not CPU intensive.
 ## Result
 
 ### CPU
-<img width="1018" alt="2019-03-01 1 19 06" src="https://user-images.githubusercontent.com/12508269/53580969-0da22300-3bc0-11e9-99a0-a6f5918ff887.png">
+![cpu5글자대소문자숫자](https://user-images.githubusercontent.com/12508269/54700769-fe871300-4b76-11e9-87b6-7a3ed7159c1f.PNG)
+![cpu5글자대소문자숫자-1](https://user-images.githubusercontent.com/12508269/54700772-ffb84000-4b76-11e9-8f7f-907bfd03d8ad.PNG)
 
 ### GPU
-![gpu_ver1](https://user-images.githubusercontent.com/12508269/53581099-4cd07400-3bc0-11e9-8e4f-e0b6ae2d70d4.PNG)
+![5글자-gpu](https://user-images.githubusercontent.com/12508269/54700748-f5964180-4b76-11e9-8ce4-15adcafbfeec.PNG)
 
 
 ### Comparison
