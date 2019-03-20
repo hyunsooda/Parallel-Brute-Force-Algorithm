@@ -18,7 +18,7 @@ This program find password using GPU power not CPU intensive.
 <p>CPU : intel i7</p>
 <p>GPU : GTX1050</p>
 
-For details(Korean) : https://eat2go.tistory.com/76?category=772666
+
 
 
 ## Result
