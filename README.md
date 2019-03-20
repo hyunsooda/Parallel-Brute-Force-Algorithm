@@ -31,6 +31,3 @@ This program find password using GPU power not CPU intensive.
 ![5글자-gpu](https://user-images.githubusercontent.com/12508269/54700748-f5964180-4b76-11e9-8ce4-15adcafbfeec.PNG)
 
 
-### Comparison
-<p> CPU: 45 min </p>
-<p> GPU: 1287.08 ms </p>
