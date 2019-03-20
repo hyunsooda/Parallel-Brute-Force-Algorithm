@@ -8,7 +8,7 @@ This program find password using GPU power not CPU intensive.
   <li> Visual Studio 2015 or Visual Studio 2017 설치 </li>
   <li> Cuda 9.0 설치 </li>
   <li> NVIDIA 프로젝트 생성 후 소스파일 생성 </li>
-  <li> CUDA 프로그램은 1~2초 안에 프로그램이 정상종료되지않을 경우 프로그램을 강제 종료시킨다. 따라서 연산이 오래걸리는 프로그램을 실행시키기 위해서는 반드시 Nsight monitor 프로그램에서 window tdr을 disable로 설정해야한다. </li>
+  <li> CUDA 프로그램은 1~2초 안에 프로그램이 정상종료되지않을 경우 프로그램이 강제 . 따라서 연산이 오래걸리는 프로그램을 실행시키기 위해서는 반드시 Nsight monitor 프로그램에서 window tdr을 disable로 설정해야한다. </li>
 </ul>
 
 
